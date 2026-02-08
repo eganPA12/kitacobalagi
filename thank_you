@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thank You</title>
+</head>
+<body>
+    <h2>Thank You For Your Submission!</h2>
+    <p>Your information has been received.</p>
+    <p>You can go back to the <a href="form.html">form page</a>.</p>
+</body>
+</html>
